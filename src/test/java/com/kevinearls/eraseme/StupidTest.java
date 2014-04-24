@@ -12,6 +12,6 @@ public class StupidTest {
 
     @Test
     public void testDoingNothing() {
-        LOG.info("Nothing to see here");
+        LOG.info("Nothing to see here because this is stupid");
     }
 }
